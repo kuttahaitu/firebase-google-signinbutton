@@ -8,8 +8,8 @@ Google Login Using Firebase Google Login with google Signup Button
 
 <p><a href="">Click here </a>& Download Project in Zip Format</p>
 
-<h1><a href="">Download Test Package</a></h1>
-<p><a href="">Click here </a>& Download Test Package</h1>
+<h1><a href="https://github.com/kuttahaitu/firebase-google-signinbutton/blob/main/debug.apk">Download Test Package</a></h1>
+<p><a href="https://github.com/kuttahaitu/firebase-google-signinbutton/blob/main/debug.apk">Click here </a>& Download Test Package</h1>
 <h1><a href="https://github.com/kuttahaitu/firebase-google-signinbutton">Preview</a></h1>
 <img src="https://github.com/kuttahaitu/firebase-google-signinbutton/blob/main/screenshots/screenshot2.png"></img>
 <img src="https://github.com/kuttahaitu/firebase-google-signinbutton/blob/main/screenshots/screenshot1.png"></img>
