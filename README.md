@@ -1,8 +1,8 @@
-# <a href="">Firebase-Google-SignInButton</a>
+# <a href="https://github.com/kuttahaitu/firebase-google-signinbutton">Firebase-Google-SignInButton</a>
 Google Login Using Firebase Google Login with google Signup Button
 
-<h1><a href="">Watch Video on YouTube</a></h1>
-<p><a href="">Click here </a>& Watch Video on YouTube</p>
+<h1><a href="https://youtube.com/playlist?list=PLY3adatDrF4l1kDat2GFmMzvbZUs6NWUF">Watch Video on YouTube</a></h1>
+<p><a href="https://youtube.com/playlist?list=PLY3adatDrF4l1kDat2GFmMzvbZUs6NWUF">Click here </a>& Watch Video on YouTube</p>
 
 <video src="https://youtu.be/PftMolh7j2Y"></video>
 
